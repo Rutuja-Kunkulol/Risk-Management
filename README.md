@@ -17,4 +17,4 @@ Diverse Risk Management Tools: Offers a variety of tools to assess and manage fi
 # Contents
 1.1) Black-Scholes numerical methods (lognormal distribution, change of measure, Monte Carlo, Binomial method)
 
-1.2) SDE simulation and statistics (paths generation, Confidence intervals, Hypothesys testing, Geometric Brownian motion, Cox-Ingersoll-Ross process, Euler Maruyama method, parameters estimation)
+1.4) SDE-Heston Model
