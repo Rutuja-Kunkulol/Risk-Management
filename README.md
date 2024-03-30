@@ -15,6 +15,6 @@ C Integration: Incorporates functions from two C files, Heston.c and solver.c, a
 Diverse Risk Management Tools: Offers a variety of tools to assess and manage financial risks, catering to different needs and scenarios.
 
 # Contents
-1.1) Black-Scholes numerical methods (lognormal distribution, change of measure, Monte Carlo, Binomial method)
-
-1.4) SDE-Heston Model
+- Black-Scholes numerical methods (lognormal distribution, change of measure, Monte Carlo, Binomial method)
+- SDE-Levy Processes
+- SDE-Heston Model
